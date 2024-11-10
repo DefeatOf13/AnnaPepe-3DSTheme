@@ -12,6 +12,8 @@ Crediti:
 
 <br>
 
+<img src=preview.png> </img>
+
 Creato usando [Usagi3DS](https://github.com/usagirei/3DS-Theme-Editor)
 
 This theme got rejected from ThemePlaza 😢
